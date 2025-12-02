@@ -88,6 +88,6 @@ The goal is to transform raw business data into an interactive dashboard that hi
 
 ## ✔️ Final Note
 This project was developed as part of my journey to gain deeper expertise in **Power BI**.  
-It reflects real-world BI skills — from building **data models** and writing **DAX**, to designing intuitive **dashboards** that help stakeholders make data-driven decisions.
+It reflects real-world BI skills from building **data models** and writing **DAX**, to designing intuitive **dashboards** that help stakeholders make data-driven decisions.
 
 If you found this project useful, please ⭐ the repository!
