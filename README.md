@@ -32,6 +32,8 @@ The goal is to transform raw business data into an interactive dashboard that hi
 - Monthly area charts  
 - Timeline slicer
 
+<img width="1308" height="738" alt="Exec Summary" src="https://github.com/user-attachments/assets/a48c2e6e-a629-4059-af4a-cab3afc719c3" />
+
 ### **2️⃣ Regional Insights**
 📌 *Analyze order distribution across global regions.*
 
@@ -42,6 +44,8 @@ The goal is to transform raw business data into an interactive dashboard that hi
 **Visuals:**  
 - World map visual with order-volume bubbles  
 - Region filter buttons (Europe, North America, Pacific, All)
+
+<img width="1311" height="733" alt="Regional Insights" src="https://github.com/user-attachments/assets/9455bd8b-7843-4c05-849e-26829afcc388" />
 
 ### **3️⃣ Product Insights**
 📌 *Deep-dive into product performance with pricing simulation.*
@@ -61,6 +65,8 @@ The goal is to transform raw business data into an interactive dashboard that hi
 - Price adjustment slider  
 - Product selection slicer
 
+<img width="1310" height="736" alt="Product Insights" src="https://github.com/user-attachments/assets/264ef278-683e-472b-8bca-c69ffe2cdb42" />
+
 ### **4️⃣ Customer Insights**
 📌 *Understand customer behavior, segmentation, and top contributors.*
 
@@ -77,6 +83,8 @@ The goal is to transform raw business data into an interactive dashboard that hi
 - Top 100 customers table (Orders, Total Revenue)  
 - Highlight card for top customer  
 - Insight callout section
+
+<img width="1310" height="736" alt="Customer Insights" src="https://github.com/user-attachments/assets/4fab7866-3650-4bff-992e-ed2f22ae12a4" />
 
 ## ✔️ Final Note
 This project was developed as part of my journey to gain deeper expertise in **Power BI**.  
